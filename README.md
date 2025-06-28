@@ -16,7 +16,7 @@ pip install python-whois
 
 I am not responsible for misuse ⚠︎
 
-Follow me: https://fsocitey.tiiny.site/
+Follow me: https://fsocitey.neocities.org/
 
 Good luck ☺
 
@@ -42,6 +42,6 @@ pip install python-whois
 انا غير مسؤول عن سوء الاستخدام ⚠︎
 
 
-تابعني : https://fsocitey.tiiny.site/
+تابعني : https://fsocitey.neocities.org/
 
 بتوفيق ☺
